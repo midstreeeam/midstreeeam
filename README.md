@@ -1,7 +1,8 @@
 Kaiyuan(Jeremy) Lou
 
-![Static Badge](https://img.shields.io/badge/homepage-kaiyuanlou.com-blue?logo=googlehome&logoColor=white&link=http%3A%2F%2Ffake.kaiyuanlou.com%2F&link=http%3A%2F%2Ffake.kaiyuanlou.com%2F)
- [![wakatime](https://wakatime.com/badge/user/f233a57d-6357-44aa-850a-b10280beae95.svg)](https://wakatime.com/@f233a57d-6357-44aa-850a-b10280beae95)
+[![Badge Label](https://img.shields.io/badge/homepage-kaiyuanlou.com-blue?logo=googlehome&logoColor=white)](https://yourwebsite.com)
+[![Badge Label](https://img.shields.io/badge/blog-midstream.cn-blue)](https://yourwebsite.com)
+[![wakatime](https://wakatime.com/badge/user/f233a57d-6357-44aa-850a-b10280beae95.svg)](https://wakatime.com/@f233a57d-6357-44aa-850a-b10280beae95)
 
 
 
