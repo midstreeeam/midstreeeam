@@ -8,6 +8,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=midstreeeam&show=discussions_answered)](https://github.com/midstreeeam/github-readme-stats)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midstreeeam&layout=donut&hide=html,css,M4,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midstreeeam&layout=donut&hide=html,css,M4,jupyter%20notebook,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=midstream)](https://github.com/midstreeeam/github-readme-stats)
