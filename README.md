@@ -1,10 +1,12 @@
 ## Kaiyuan(Jeremy) Lou
 
-<!--[![Badge Label](https://img.shields.io/badge/homepage-kaiyuanlou.com-blue)](http://fake.kaiyuanlou.com/)-->
+[![Badge Label](https://img.shields.io/badge/homepage-kaiyuanlou.com-blue)](http://fake.kaiyuanlou.com/)
 [![Badge Label](https://img.shields.io/badge/blog-midstream.cn-blue)](https://midstream.cn/)
 [![wakatime](https://wakatime.com/badge/user/f233a57d-6357-44aa-850a-b10280beae95.svg)](https://wakatime.com/@f233a57d-6357-44aa-850a-b10280beae95)
 
 This is Kaiyuan (Jeremy) Lou. A Python/Rust developer.
+
+Visiting [HomePage](http://fake.kaiyuanlou.com/) for more information.
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=midstreeeam&show=discussions_answered)](https://github.com/midstreeeam/github-readme-stats)   
