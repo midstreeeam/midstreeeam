@@ -4,7 +4,7 @@
 [![Badge Label](https://img.shields.io/badge/blog-midstream.cn-blue)](https://midstream.cn/)
 [![wakatime](https://wakatime.com/badge/user/f233a57d-6357-44aa-850a-b10280beae95.svg)](https://wakatime.com/@f233a57d-6357-44aa-850a-b10280beae95)
 
-This is Kaiyuan (Jeremy) Lou. A Python/Rust developer.
+This is Kaiyuan (Jeremy) Lou. A machine learning developer. But I put some small tools and toys here.
 
 Visiting [HomePage](http://kaiyuanlou.com/) for more information.
 
